@@ -7,4 +7,5 @@ A shell script for installing sonarqube7.3 with ubuntu16.04
 4. Execute update-sonar-service.sh
 
 sudo passwd root => change password for user root
+
 sudo systemctly status sonar => check status of sonar
